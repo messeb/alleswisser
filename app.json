@@ -1,0 +1,10 @@
+{
+    "name": "Alleswisser API",
+    "description": "API to use German for the WolframAlpha Short Answer API",
+    "env": {
+        "WOLFRAM_ALPHA_APP_ID": {
+            "description": "App id of the WolframAlpha Short Answer API",
+            "value": ""
+      }
+    }
+}
